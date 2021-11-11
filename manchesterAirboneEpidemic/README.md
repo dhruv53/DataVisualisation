@@ -1,4 +1,5 @@
 # Manchester Airborne Outbreak
+
 ## _CSC8626 Data Visualization_
 
 ## Preamble
@@ -47,3 +48,6 @@ Your visualization should consist just one PowerBI report page designed to:
 Visualizing variation across multiple scenarios (30% of the mark for this assignment)
 For this additional part of the assignment you can work with any number of the datafiles and all 1000 simulation outputs (250 files x 4 outputs per file).
 Your task here is to demonstrate the impact and uncertainty of the scenarios across multiple simulation runs. Again, you are aiming to help the decision maker decide which areas of the city it is most important to target with aid first. But now there are up to one thousand different variations in the wind speed and direction (four per data file). You might be able to do this with your solution to part 1 but it is possible you will need an overview visualization of some kind.
+
+### Solution :
+<img src="https://github.com/dhruv53/DataVisualisation/blob/main/manchesterAirboneEpidemic/Solution/Solution.png"/>
